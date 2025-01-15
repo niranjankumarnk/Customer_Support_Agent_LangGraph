@@ -20,3 +20,9 @@ conda activate env
 pip install -r requirements.txt
 ```
 
+# Second Step
+
+
+
+
+![alt text](image.png)
