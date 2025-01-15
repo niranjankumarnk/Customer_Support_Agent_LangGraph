@@ -22,7 +22,11 @@ pip install -r requirements.txt
 
 # Second Step
 
-
+1. Import required Libraries
+2. Define a State and Model for our Project
+3. Create a Nodes 
+4. Build a Workflow and connect nodes with edges and compile it.
+5. Visualize and Test the Pipeline
 
 
 ![alt text](image.png)
