@@ -28,5 +28,9 @@ pip install -r requirements.txt
 4. Build a Workflow and connect nodes with edges and compile it.
 5. Visualize and Test the Pipeline
 
+![alt text](output.png)
+
+
+**Final result on gradio app:**
 
 ![alt text](image.png)
